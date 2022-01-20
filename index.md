@@ -109,6 +109,7 @@ In this way:
 - Higrometer/Hidrometer + ESP32 + ESP32 battery board -> MQTT
 - Start using Grafana or other dashboard instead of Home Assistant
 - Router as HUB
+- ESP32 for computer power switch. (WoL and WoWlan don't work properly. Too much noise text including offical wiki from Ubuntu)
 
 
 ## Extra
