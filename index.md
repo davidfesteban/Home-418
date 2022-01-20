@@ -36,7 +36,7 @@ Ubuntu Server. That's it. There is no better option available.
 
 ## Router
 
-For providing security, you want your VPN server to RUN outside your server. I recommend you to buy RT-AX58U. It has WIFI 6 and OpenVPN Server capability available for your entire local network without the need of a client. Asus routers provide you a really good DDNS service. So it is a WIN-WIN. Bye bye dynamic IP issues.
+For providing security, you want your VPN server to RUN outside your server. I recommend you to buy RT-AX58U. It has WIFI 6 and OpenVPN Server capability available for your entire local network without the need of a client. Asus routers provide you a really good DDNS service. So it is a WIN-WIN. Bye bye dynamic IP issues. (PPTP VPN is okeish but having OpenVPN is the heaven)
 
 **Advice: RUN ALWAYS, from any product that has "Gaming" in its name or even in its description.** 
 
