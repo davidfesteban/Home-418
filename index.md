@@ -69,7 +69,7 @@ You can try to re-solder with a new chip, but it is highly probable that you bur
 Tasmota is a dream, but we need more pre-flashed devices on the market with Tasmota. If you don't know what is Tasmota, just google it. Or google about Tasmota devices.
 
 Also, having IoT devices over WIFI, without a HUB, is going to drive your Router and your network crazy because of tons of reasons. (SU-MIMO for example)
-So, you are really interested on buying a router. Dongknowshow website is the only one that explain things without bullshit.
+So, you are really interested on buying a good router. Dongknowshow website is the only one that explain things without bullshit.
 
 You can always use Zigbee, but come on... Maybe a solution for you if you have like 10-12 devices, is to have a single router as hub for this connected by a single local ip to your main router.
 
@@ -108,6 +108,7 @@ In this way:
 - Using ESP32 open software devices and getting rid of Tuya little by little. 
 - Higrometer/Hidrometer + ESP32 + ESP32 battery board -> MQTT
 - Start using Grafana or other dashboard instead of Home Assistant
+- Router as HUB
 
 
 ## Extra
