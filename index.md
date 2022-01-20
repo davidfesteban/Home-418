@@ -106,3 +106,9 @@ In this way:
 - Having two switches and two wifi thermo-sensors for switching heaters on each room.
 - Alexa -> Skill -> My MQTT broker (getting rid of VoiceMonkey, sry m8)
 - Using ESP32 open software devices and getting rid of Tuya little by little. 
+- Higrometer/Hidrometer + ESP32 + ESP32 battery board -> MQTT
+- Start using Grafana or other dashboard instead of Home Assistant
+
+
+## Extra
+You can download a docker image containing all versions available of a Minecraft server. It is just one click. (I recommend you to use full docker-compose.yml version instead of single docker command)
